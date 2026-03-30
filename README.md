@@ -36,6 +36,20 @@
 </p>
 
 ---
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Anubhav-30/Anubhav-30/blob/output/github-contribution-grid-snake-dark.svg">
+    <img alt="snake animation" src="https://github.com/Anubhav-30/Anubhav-30/blob/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Anubhav-30/Anubhav-30/blob/output/github-contribution-grid-snake.gif">
+</p>
+
+---
 
 ## ⚡ Tech Stack
 
@@ -64,6 +78,14 @@
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
+
+---
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anubhav-30&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anubhav-30&theme=tokyonight" />
 </p>
 
 ---
@@ -99,6 +121,14 @@
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Anubhav-30&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔥 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anubhav-30&theme=tokyo-night&area=true&hide_border=true" />
 </p>
 
 ---
