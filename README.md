@@ -36,20 +36,6 @@
 </p>
 
 ---
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Anubhav-30/Anubhav-30/blob/output/github-contribution-grid-snake-dark.svg">
-    <img alt="snake animation" src="https://github.com/Anubhav-30/Anubhav-30/blob/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
-<p align="center">
-  <img src="https://github.com/Anubhav-30/Anubhav-30/blob/output/github-contribution-grid-snake.gif">
-</p>
-
----
 
 ## ⚡ Tech Stack
 
