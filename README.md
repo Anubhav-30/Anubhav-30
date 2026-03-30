@@ -67,14 +67,6 @@
 </p>
 
 ---
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anubhav-30&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anubhav-30&theme=tokyonight" />
-</p>
-
----
 
 ## 🚀 Featured Work
 
@@ -111,6 +103,14 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://github.com/Anubhav-30/Anubhav-30/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
 ## 🔥 Contribution Graph
 
 <p align="center">
@@ -123,14 +123,6 @@
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Anubhav-30&theme=onedark&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://github.com/Anubhav-30/Anubhav-30/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
