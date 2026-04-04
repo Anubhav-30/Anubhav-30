@@ -8,7 +8,7 @@
 <img src="https://komarev.com/ghpvc/?username=Anubhav-30&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-<h3 align="center">🚀 VLSI Student | NMIT Bangalore | RTL Design Focus</h3>
+<h3 align="center">🚀 ECE(VLSI) Student | NMIT Bangalore | RTL Design Focus</h3>
 
 ---
 
