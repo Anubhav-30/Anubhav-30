@@ -106,8 +106,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://github.com/Anubhav-30/Anubhav-30/blob/output/github-contribution-grid-snake.svg" />
-</p>
+<img src="https://streak-stats.demolab.com?user=Anubhav-30&theme=tokyonight&cache_seconds=1" />
 
 ---
 
