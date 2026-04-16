@@ -98,8 +98,7 @@
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Anubhav-30&theme=tokyonight"/>
-</p>
+<img src="https://streak-stats.demolab.com?user=Anubhav-30&theme=tokyonight&cache_seconds=1" />
 
 ---
 
