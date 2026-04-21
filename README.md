@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anubhav</h1>
+<h1 align="center">Hi👋, I'm Anubhav</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=VLSI+Enthusiast;RTL+Designer;Future+ASIC+Engineer;Verilog+%7C+SystemVerilog+%7C+FPGA" />
